@@ -4,14 +4,14 @@ In this repository you will find some useful tips to use in your README file
 > [!NOTE]
 > Note message
 
-> .[!TIP].
+> [!TIP]
 > Tip message
 
-> .[!WARNING].
+> [!WARNING]
 > Warning message
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > Important message
 
-> .[!CAUTION].
+> [!CAUTION]
 > Caution message
